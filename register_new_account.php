@@ -77,7 +77,7 @@ else{
             <br />
             <br />
             <small>Código de ativação: <b style="color: gold;">'.$string_code.'</b></small> <br /><br /><br />
-            <a href="http://papserver.aelc.pt/~Bruno32956/ProjetoPAP/TrainEnergy-master/?p=ac&email='.$email.'" style="background-color: #FF6400; color: #fff; padding: 20px; border-radius: 5px; border: px solid #fff;">
+            <a href="secret/?p=ac&email='.$email.'" style="background-color: #FF6400; color: #fff; padding: 20px; border-radius: 5px; border: px solid #fff;">
                 Ativar a conta
             </a>
             <br />
